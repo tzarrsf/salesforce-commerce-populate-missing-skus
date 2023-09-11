@@ -6,4 +6,4 @@ If you encounter an error that says *Error: [The SKUs for all products in your c
     2. Hit Control + E or use Debug → **Open Execute Anonymous Window**
     3. Copy, paste and run the code in populateMissingSkus.apex
 3. Refresh the Product Workspace to see the new SKU values:
-    1. [Image: image.png]
+![Product Workspace](workspace.png)
